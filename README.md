@@ -2,25 +2,25 @@
 
 Welcome to the LabView Projects repository! Here you will find a collection of LabView projects, each designed to help you learn and master different aspects of LabView programming.
 
-## Lab 1: Basic Controls and Indicators
+## Lab 1: AC/DC Circuits and Basic Measurements
 
 In this lab, you will learn how to use basic controls and indicators. This is a great starting point if you are new to LabView.
 
 
 
-## Lab 2: Data Types and Structures
+## Lab 2: AC Transformers
 
 This lab introduces various data types and structures in LabView. You'll get hands-on experience working with arrays, clusters, and more.
 
 
 
-## Lab 3: Loops and Conditional Statements
+## Lab 3:  Permanent Magnet Brushed DC Motor
 
 Learn how to implement loops and conditional statements in LabView to control the flow of your programs.
 
 
 
-## Lab 4: Advanced Data Manipulation
+## Lab 4: AC Squirrel-Cage Induction Motor
 
 In this lab, you will work with more advanced data manipulation techniques, preparing you for complex LabView programming tasks.
 
