@@ -6,25 +6,25 @@ Welcome to the LabView Projects repository! Here you will find a collection of L
 
 In this lab, you will learn how to use basic controls and indicators. This is a great starting point if you are new to LabView.
 
-- [Lab 1 File](Lab_1.vi)
+
 
 ## Lab 2: Data Types and Structures
 
 This lab introduces various data types and structures in LabView. You'll get hands-on experience working with arrays, clusters, and more.
 
-- [Lab 2 File](Lab_2.vi)
+
 
 ## Lab 3: Loops and Conditional Statements
 
 Learn how to implement loops and conditional statements in LabView to control the flow of your programs.
 
-- [Lab 3 File](Lab_3.vi)
+
 
 ## Lab 4: Advanced Data Manipulation
 
 In this lab, you will work with more advanced data manipulation techniques, preparing you for complex LabView programming tasks.
 
-- [Lab 4 File](Lab_4.vi)
+
 
 ## Getting Started
 
